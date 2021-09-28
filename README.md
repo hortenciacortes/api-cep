@@ -18,7 +18,7 @@ Projeto simples, criado em Reactjs, consumindo a API de Ceps: [apiCEP](https://a
 
 
 ### 🎨  Layout <a id="layout"></a>
-
+![enter image description here](https://github.com/HortenciaCorts/api-cep/blob/main/src/images/api-cep.gif?raw=true)
 
 ### 🚀  Como executar o projeto <a id="executar-projeto"></a>
 
