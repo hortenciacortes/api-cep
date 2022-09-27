@@ -42,10 +42,12 @@ Além disto é bom ter um editor para trabalhar com o código como  [VSCode](htt
 ### 🛠 Tecnologias <a id="tecnologias"></a>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- [x] React
-- [x] Fetch
-- [x] NodeJS
-- [x] CSS
+
+     React, Fetch, CSS
+	
+Atualização: 
+
+     Typescript
 
 ### 👧 Autora <a id="autora"></a>
 
